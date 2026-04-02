@@ -1,17 +1,5 @@
----
-title: BurnoutRadar — AI Early Burnout Detector
-emoji: 🔥
-colorFrom: teal
-colorTo: purple
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: true
-license: mit
-short_description: Predict employee burnout 2–3 weeks before it shows
----
 
-# 🔥 BurnoutRadar — AI Early Burnout Detector
+# BurnoutRadar — AI Early Burnout Detector
 
 **Predict employee burnout 2–3 weeks before it becomes visible** using behavioral signals like typing speed, meeting load, after-hours usage, and calendar density.
 
@@ -78,6 +66,4 @@ print(response.json())
 
 MIT — free to use, modify, and deploy commercially.
 
----
 
-Built by [your name] · [LinkedIn] · [Twitter]
